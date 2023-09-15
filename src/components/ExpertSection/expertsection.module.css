@@ -30,6 +30,18 @@
     margin: 0.25rem;
 }
 
+
+@media (max-width: 600px){
+    .expertise {
+        flex-direction: column;
+    }
+    .smallBlock {
+        max-width: 80%;
+        min-width: 80%;
+        margin: 0.25rem;
+      }
+}
+
 .smallBlock h3 {
     margin: 0;
     font-family: "Albert Sans";
