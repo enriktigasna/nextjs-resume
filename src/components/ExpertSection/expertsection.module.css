@@ -1,0 +1,43 @@
+.title {
+    font-family: "Albert Sans";
+}
+
+.expertSection .title {
+    color: #cca7f9;
+}
+
+.smallBlock h3 {
+    color: #e6d9fa;
+}
+
+.expertSection {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-top: 1px solid #FFFFFF0D;
+    border-bottom: 1px solid #FFFFFF0D;
+    margin-bottom: 4rem;
+}
+
+.expertise {
+    display: flex;
+    flex-direction: row;
+}
+
+.smallBlock {
+    max-width: 30%;
+    min-width: 30%;
+    margin: 0.25rem;
+}
+
+.smallBlock h3 {
+    margin: 0;
+    font-family: "Albert Sans";
+    font-weight: 500;
+}
+
+.smallBlock p {
+    font-family: "Albert Sans";
+    font-weight: 400;
+    color: #FFFFFFB3;
+}

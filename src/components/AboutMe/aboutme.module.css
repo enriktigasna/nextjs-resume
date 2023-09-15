@@ -1,0 +1,16 @@
+.block {
+    max-width: 45%;
+    min-width: 45%;
+    margin: 0.25rem;
+}
+
+.title {
+    font-family: 'Albert Sans', sans-serif;
+    font-weight: 600;
+    color: #cca7f9;
+}
+
+.paragraph {
+    font-family: 'Albert Sans', sans-serif;
+    font-weight: 400;
+}
