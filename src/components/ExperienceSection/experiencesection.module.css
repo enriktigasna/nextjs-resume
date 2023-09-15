@@ -55,9 +55,11 @@
 
 
 .experienceSection {
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: center;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #FFFFFF0D;
 }
 
 .experienceTitle {

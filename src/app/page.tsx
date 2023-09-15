@@ -1,7 +1,6 @@
-import Image from 'next/image'
-import styles from './page.module.css'
 import Header from '@/components/Header/Header'
 import Main from '@/components/Main/Main'
+import Footer from '@/components/Footer/footer'
 
 
 export default function Home() {
@@ -9,6 +8,7 @@ export default function Home() {
     <>
       <Header></Header>
       <Main></Main>
+      <Footer></Footer>
     </>
   )
 }

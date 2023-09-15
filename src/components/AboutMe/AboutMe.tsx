@@ -11,7 +11,7 @@ export default function () {
             <div className={`${styles.block}`}>
                 <h1 className={styles.title}>Contact</h1>
                 <p className={styles.paragraph}>
-                    enriktigasna@gmail.com <br />
+                    maxim.pavlenko2011@gmail.com <br />
                     070-977 01 03 <br />
                     Helsingborg <br />
                 </p>
