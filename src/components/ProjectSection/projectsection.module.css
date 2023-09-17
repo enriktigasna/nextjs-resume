@@ -1,0 +1,16 @@
+.mySwiper {
+    width: 100%;
+}
+.item{
+    width: fit-content;
+    height: 500px;
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 4rem;
+  }
+.item h1 {
+    max-width: 100%;
+    font-family: "Albert Sans";
+}
