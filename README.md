@@ -12,7 +12,7 @@ Clone the project and install dependencies
 git clone https://github.com/enriktigasna/nextjs-resume && cd nextjs-resume
 npm install
 ```
-
+Run the project in a developement environment
 ```bash
 npm run dev
 # or
